@@ -1,0 +1,5 @@
+{
+  "name": "Samsung Service OTP Decoder",
+  "description": "A tool to decode OTP for Samsung Service Mode (*#9900#)",
+  "requestFramePermissions": []
+}
